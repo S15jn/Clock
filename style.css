@@ -1,0 +1,38 @@
+body{
+    color: white;
+    background-image: url("https://www.bergerpaints.com/blog/wp-content/uploads/2019/09/Walls-stains-1280x720.png");
+  background-size: cover;
+  display: flex;
+  font-family: "Yeseva One", serif;
+  font-weight: 400;
+  font-style: normal;
+
+  background-position:top;
+}
+#clock{
+
+    /* background-color: aquamarine; */
+    display: flex;
+    background-color: rgb(45, 43, 43);
+    height: 100px;
+    width: 450px;
+    font-size: 5em;
+    margin-left: 50%;
+    margin-top: 10%;
+    /* text-align: center; */
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 30px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    /* box-shadow:10px 10px grey ; */
+    filter:drop-shadow(16px 20px 20px rgb(99, 96, 96));
+    /* backdrop-filter: blur(2rem); */
+    
+
+
+
+}
+
